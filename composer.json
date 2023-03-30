@@ -1,0 +1,16 @@
+{
+    "name": "user/karaca-case",
+    "description": "karaca is gorusmesi icin hazirlanmistir",
+    "autoload": {
+        "psr-4": {
+            "User\\KaracaCase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdurrahim bulut",
+            "email": "abdurrahim.bulut@tsoft.com.tr"
+        }
+    ],
+    "require": {}
+}
